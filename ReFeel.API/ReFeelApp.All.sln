@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReFeel.API", "ReFeel.API.csproj", "{C8A9AE6D-5112-467A-A964-11E11166C7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReFEEL.Models", "..\ReFEEL.Models\ReFEEL.Models.csproj", "{4A56748E-0ABC-4611-A173-6D2A00737406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A9AE6D-5112-467A-A964-11E11166C7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A9AE6D-5112-467A-A964-11E11166C7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A9AE6D-5112-467A-A964-11E11166C7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A9AE6D-5112-467A-A964-11E11166C7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A56748E-0ABC-4611-A173-6D2A00737406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A56748E-0ABC-4611-A173-6D2A00737406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A56748E-0ABC-4611-A173-6D2A00737406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A56748E-0ABC-4611-A173-6D2A00737406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E88B8731-0CA8-460C-AA8A-83DA1B6B91D2}
+	EndGlobalSection
+EndGlobal
